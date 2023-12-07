@@ -3,6 +3,7 @@ using namespace std;
 
 // Todo: 寫一個印出"Hello World"的程式
 int main() {
-    cout<<"hello world";
+    cout<<"hello world"; 
+    cout<"ddd";
   return 0;
 }
